@@ -1,0 +1,27 @@
+NLP Sums Types with Examples
+1. Parse Trees
+https://www.youtube.com/watch?v=yHGndPD0Xs0
+https://www.youtube.com/watch?v=ovenwMD4U9Y
+https://qr.ae/prRbDA
+
+2. CYK Algorithm
+https://www.gatevidyalay.com/cyk-cyk-algorithm/
+https://www.youtube.com/watch?v=xRMn6HK84io&list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i&index=63
+
+3. Min Edit Distance
+https://www.ideserve.co.in/learn/edit-distance-dynamic-programming
+https://www.youtube.com/watch?v=b6AGUjqIPsA
+
+4. Navie Bayes Algorithm
+https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+https://www.youtube.com/watch?v=mzPHmNm_NrM
+https://www.geeksforgeeks.org/applying-multinomial-naive-bayes-to-nlp-problems/
+
+5. Viterbi's Algorithm
+https://www.youtube.com/watch?v=xejm-z3sbWA
+https://www.youtube.com/watch?v=IqXdjdOgXPM
+
+6.N-Gram model
+https://www.youtube.com/watch?v=FTBOUMgfXuU
+https://www.youtube.com/watch?v=f0xlSjpIS80
+https://web.cs.hacettepe.edu.tr/~ilyas/Courses/CMP711/lec03-LanguageModels.pdf
