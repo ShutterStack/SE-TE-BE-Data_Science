@@ -1,4 +1,4 @@
-# SE-TE-BE-Data_Science
+# Study Repo for SE-TE-BE-Data_Science
 Welcome to a dedicated resource hub designed specifically for Data Science students in SE, TE, and BE in Data Science! This repository consolidates essential study materials to support your journey through data science with clarity and confidence.
 All the notes are carried forward for the University of Mumbai affiliated colleges and others as well.
 
