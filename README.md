@@ -10,7 +10,7 @@ All the notes are carried forward for the University of Mumbai affiliated colleg
 <h4>24/7 Accessibility:</h4> Study anytime, anywhere. With resources available around the clock, you can review and revise whenever you need.<br>
 
 ### How to Get Started
-Browse the Folders: Select your year (SE, TE, BE) and dive into topic-specific folders.
+Browse the Folders: Select your year (SE, TE, BE) and dive into topic-specific folders.<br><br>
 Access & Review: Explore detailed notes and resources aimed at strengthening core concepts and practical applications.
 
 <h2> Open to all suggestions and requests </h2>
