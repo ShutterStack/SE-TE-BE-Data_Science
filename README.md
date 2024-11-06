@@ -9,7 +9,7 @@ All the notes are carried forward for the University of Mumbai affiliated colleg
 <h4>Free & Open Source:</h4> This repository is completely free, open-source, and always available to the data science community. Open to all who want to contribute more and support the community.<br>
 <h4>24/7 Accessibility:</h4> Study anytime, anywhere. With resources available around the clock, you can review and revise whenever you need.<br>
 
-### How to Get Started
+## How to Get Started
 Browse the Folders: Select your year (SE, TE, BE) and dive into topic-specific folders.<br><br>
 Access & Review: Explore detailed notes and resources aimed at strengthening core concepts and practical applications.
 
